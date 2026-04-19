@@ -137,4 +137,6 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+qdrant_storage/
+
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Python
